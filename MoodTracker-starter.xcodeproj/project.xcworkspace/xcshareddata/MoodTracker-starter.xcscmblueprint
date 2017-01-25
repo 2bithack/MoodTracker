@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BE9597A350497333826320CE496A54345A5A4BB1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D4522F3C2D1A690C5E54D2A979D84A8BAE9F09B8" : 9223372036854775807,
+    "BE9597A350497333826320CE496A54345A5A4BB1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0237767D-742F-454A-AE1D-E251145C52CA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D4522F3C2D1A690C5E54D2A979D84A8BAE9F09B8" : "..",
+    "BE9597A350497333826320CE496A54345A5A4BB1" : "MoodTracker\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MoodTracker-starter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MoodTracker-starter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/enzobotter\/MoodTracker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BE9597A350497333826320CE496A54345A5A4BB1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/enzobotter\/iOS-MVC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D4522F3C2D1A690C5E54D2A979D84A8BAE9F09B8"
+    }
+  ]
+}
